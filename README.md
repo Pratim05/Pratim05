@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **React**
 
-- 📫 How to reach me **pratimbera2017@gmail.com**
+- 📫 How to reach me **pratimworkshop@gmail.com**
 - 📫 Take a Tour on My link trees **<a href="http://linktr.ee/Pratim_Bera" target="_blank" rel="noopener noreferrer">Linktree</a>**
 
 - 📫 See my projects on  **<a href="https://pratim05.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">Portfolio</a>**
